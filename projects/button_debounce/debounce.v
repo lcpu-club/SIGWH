@@ -9,7 +9,7 @@ module debounce (
 
 parameter DEBOUNCE_COUNT = 10'd12500000;
 
-reg [32:0] debouncer_cnt;
+reg [31:0] debouncer_cnt;
 reg button_reg;
 
 always @(posedge clk or negedge rst_n) begin
