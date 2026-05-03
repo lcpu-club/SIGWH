@@ -6,3 +6,7 @@
 课程课件/第二节-Part2：使用mac进行vivado远程开发.pptx filter=lfs diff=lfs merge=lfs -text
 课程课件/第二节：Verilog语法、CLab远程开发.odp filter=lfs diff=lfs merge=lfs -text
 课程课件/第二节：Verilog语法、CLab远程开发.pdf filter=lfs diff=lfs merge=lfs -text
+课程课件/第三节：FPGA仿真、简单IP核引入.odp filter=lfs diff=lfs merge=lfs -text
+课程课件/第三节：FPGA仿真、简单IP核引入.pdf filter=lfs diff=lfs merge=lfs -text
+课程课件/第三节-Part1：开源RTL行为仿真.pdf filter=lfs diff=lfs merge=lfs -text
+课程课件/第三节-Part1：开源RTL行为仿真.pptx filter=lfs diff=lfs merge=lfs -text
